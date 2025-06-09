@@ -32,3 +32,18 @@ The original Zentry website is known for its beautiful design, smooth scroll ani
 ```bash
 git clone https://github.com/adrianhajdin/award-winning-website.git
 cd award-winning-website
+```
+
+2.Install dependencies:
+```bash
+npm install
+```
+
+3.run the website
+```bash
+npm run dev
+```
+
+
+Disclaimer
+This is a non-commercial clone project. All design credits and assets belong to the original creators of Zentry. Use this project for learning only.
