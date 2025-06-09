@@ -45,5 +45,6 @@ npm run dev
 ```
 
 
-Disclaimer
+##Disclaimer
+
 This is a non-commercial clone project. All design credits and assets belong to the original creators of Zentry. Use this project for learning only.
